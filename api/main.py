@@ -91,3 +91,4 @@ def predict(data: ClientData):
         "model_version": "1.0.0",
         "duration_ms": round(duration * 1000, 2),
     }
+# Ajout de prediction pour le modèle de régression logistique: dummy change
