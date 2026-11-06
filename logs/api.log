@@ -1,0 +1,5 @@
+2026-11-05 17:46:41,251 INFO api.main Model loaded: model_version=1.0.0
+2026-11-05 22:48:16,643 INFO api.main Model loaded: model_version=1.0.0
+2026-11-05 22:53:39,443 INFO api.main Model loaded: model_version=1.0.0
+2026-11-05 23:03:18,962 INFO api.main Prediction request: client_ip=172.18.0.1 model_version=1.0.0
+2026-11-05 23:03:19,059 INFO api.main Prediction success: client_ip=172.18.0.1 model_version=1.0.0 prediction=CHURN probability=0.5700 duration_ms=97.28
